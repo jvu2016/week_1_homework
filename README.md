@@ -16,7 +16,7 @@ We'll be recreating our course syllabus starting from plain old content. The fir
 
 Right now, `syllabus.html` contains only raw content, without any HTML structure at all. Your first job will be to go through and add some.
 
-**The Wrap Selection With Tag (Ctrl-Shift-W on Mac, Alt-Shift-W on Windows) keyboard shortcut is your friend.** Highlight the content you want to put opening and closing tags around, then use the shortcut, then type the tag name that you want and it will modify both the opening and closing tags.
+**The Wrap Selection With Tag (Ctrl-Shift-W on Mac, Alt-Shift-W on Windows) keyboard shortcut is your friend.** Highlight the content you want to put opening and Clonesing tags around, then use the shortcut, then type the tag name that you want and it will modify both the opening and closing tags.
 
 All of the content up until the schedule is pretty straightforward; some tags you might find suitable to describe the content are
 
